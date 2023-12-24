@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Uc4rRbJHKtDLkS+T3SKjQb/gBOJRrTDSGy6PIxcYpmo=",
+  "Source": "ECommerse.Api.Customers",
+  "BasePath": "_content/ECommerse.Api.Customers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

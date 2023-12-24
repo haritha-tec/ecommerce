@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6oXdWNbwZwHM9fDdrjZSsEBapt2ouAmi4dH+qXPzilo=",
+  "Source": "ECommerse.Api.Search",
+  "BasePath": "_content/ECommerse.Api.Search",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
